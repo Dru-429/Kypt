@@ -20,11 +20,4 @@ The KRYPT project is organized into the following components:
 * **`frontend/`:** The React-based frontend application for user interaction and wallet connection.
 * **`backend/`:** The Node.js backend service that listens for contract events and manages course access.
 
-## 🚀 Getting Started
 
-Follow these steps to set up and run KRYPT:
-
-1. **Clone the Repository:**
-   ```bash
-   git clone [repository URL]
-   cd kry
