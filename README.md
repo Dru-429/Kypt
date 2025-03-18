@@ -1,6 +1,8 @@
 # 🚀 KRYPT: Secure & Tracked Course Payments with Solidity 
 
 Welcome to **KRYPT**, a project designed to demonstrate how to build a secure and transparent payment system for online courses using Solidity smart contracts! 
+![image](https://github.com/user-attachments/assets/ac7ae208-66bf-4bb0-bfe1-68eab5508c73)
+
 
 ## 💡 What is KRYPT?
 
