@@ -8,6 +8,6 @@ module.exports = {
       accounts: [
         "f58fe5bb6ffa62b174bc05d9def16763ecbfb9c88ea147e6e94fd85eab2cdca5",
       ],
-    },
+    },     
   },
 };
